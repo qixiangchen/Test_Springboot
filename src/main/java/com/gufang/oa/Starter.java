@@ -7,6 +7,8 @@ import org.springframework.context.annotation.ComponentScan;
 
 import com.alibaba.dubbo.spring.boot.annotation.EnableDubboConfiguration;
 
+//mazhanfu    git  ----A
+
 //声明SpringBoot应用
 @SpringBootApplication
 //扫描Mybatis接口包
